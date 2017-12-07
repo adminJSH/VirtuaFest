@@ -1,0 +1,10 @@
+Nombre: Jorge Soto H
+Edad    24 Años
+Ocupación: Coordinador Web
+Escuela: N/A
+Carrera: Ing. en Telemática
+Hobbies: Musico
+Descripción breve: Joven emprendedor con ganas de aprender
+Lenguajes de programación que sé: C++, Java, HTML, PHP, R programming, Visual Basic, C, Labview
+Frameworks manejados: Cakephp
+Proyectos personales e industria realizados: Domotización vía android por comando de voz y creación de monitoreo de la calidad del aire en el estado de Durango
